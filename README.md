@@ -2,6 +2,7 @@
 ![](https://i.pinimg.com/originals/45/68/ff/4568ff50e791b0dd37c7ef839c244163.gif)
 
 Обо мне:
+
 Мой путь начался в 2021 году, я тогда поступил в IT-академию Top сейчас я в работе использую ClaudeCode от Anthropic
 
 Skills:  Python / HTML / CSS
