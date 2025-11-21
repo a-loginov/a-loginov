@@ -16,7 +16,7 @@ Skills:  Python / HTML / CSS
 
 
 <h3 align="left">🛠 Мои проекты:</h3>
-- [OpenWebJ бесплатный аналог Notion с открытм исходным кодом](https://github.com/a-loginov/OpenWebJ)
+- [OpenWebJ бесплатный аналог Notion с открытм исходным кодом](https://github.com/a-loginov/OpenWebJ
 
 <h3 align="left">Технологии с которыми я работаю:</h3>
 
