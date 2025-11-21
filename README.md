@@ -21,4 +21,4 @@ Skills:  Python / HTML / CSS
 
 <h3 align="left">Технологии с которыми я работаю:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,figma,webstorm,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons/html,css,python,figma,webstorm,vscode)](https://skillicons.dev)
